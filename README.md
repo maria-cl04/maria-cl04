@@ -31,8 +31,9 @@ I'm a **4th-year Telecommunications Engineering student** (Systems specialty) at
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### 📫 Let's Connect!
-* **LinkedIn:** [María Cañero López](https://www.linkedin.com/in/maría-cañero-lópez-677436297)
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![María's GitHub stats](https://github-readme-stats.vercel.app/api?username=maria-cl04)](https://github.com/maria-cl04/github-readme-stats)
 
 ---
+📫 **LinkedIn:** [María Cañero López](https://www.linkedin.com/in/maría-cañero-lópez-677436297)
 ⚡ **Fun facts about me:** I'm a huge sports fan! Also, living in Santa Clara when I was younger was exactly what sparked my passion for coding.
